@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin_right_details_activity_normal_land">50dp</dimen>
+    <dimen name="fab_margin_top_details_activity_normal_land">18dp</dimen>
+    <dimen name="fab_margin_top_details_activity_large_land">52dp</dimen>
+    <dimen name="fab_margin_right_details_activity_large_land">100dp</dimen>
+</resources>

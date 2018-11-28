@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string-array name="quality_array">
+        <item>all</item>
+        <item>720p</item>
+        <item>1080p</item>
+        <item>3D</item>
+    </string-array>
+
+    <string-array name="genre_array">
+        <item>all</item>
+        <item>action</item>
+        <item>adventure</item>
+        <item>animation</item>
+        <item>biography</item>
+        <item>comedy</item>
+        <item>crime</item>
+        <item>documentary</item>
+        <item>drama</item>
+    </string-array>
+
+    <string-array name="sort_by_array">
+        <item android:text="lastDate">date_added</item>
+        <item>oldest</item>
+        <item>seeds</item>
+        <item>peers</item>
+        <item>year</item>
+        <item>rating</item>
+        <item>likes</item>
+        <item>alphabetical</item>
+        <item>downloads</item>
+    </string-array>
+
+
+</resources>

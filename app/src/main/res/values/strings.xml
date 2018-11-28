@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">YIFY Movies</string>
+    <string name="edit_text_hint">Movie Title</string>
+    <string name="button_text">SEARCH</string>
+    <string name="quality_textview">Quality :</string>
+    <string name="genre_textview">Genre :</string>
+    <string name="sort_by_textview">Order By :</string>
+    <string name="title">Movies Name</string>
+    <string name="wating">Waiting . . .</string>
+    <string name="after_load_text">Search Done!</string>
+    <string name="editText_emputy">Please enter Correct Name</string>
+    <string name="no_internet_message">Please check your network connection and try again.</string>
+    <string name="details_name">Movie Details</string>
+    <string name="loader_data_empty">No Result Found</string>
+    <string name="details_720p_button">720p</string>
+    <string name="details_1080p_button">1080p</string>
+    <string name="details_3d_button">3D</string>
+</resources>

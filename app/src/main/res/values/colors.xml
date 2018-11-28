@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9c27b0</color>
+    <color name="colorPrimaryDark">#9c27b0</color>
+    <color name="colorAccent">#8328C9</color>
+
+    <color name="search_button_color">#9c27b0</color>
+
+    <color name="search_edittext">#E36414</color>
+    <color name="search_edittext_active">#9c27b0</color>
+
+</resources>

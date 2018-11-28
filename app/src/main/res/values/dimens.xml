@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="fab_margin_right_details_activity_normal">64dp</dimen>
+    <dimen name="fab_margin_top_details_activity_normal">66dp</dimen>
+
+    <dimen name="fab_margin_right_details_activity_normal_land">50dp</dimen>
+    <dimen name="fab_margin_top_details_activity_normal_land">18dp</dimen>
+
+    <dimen name="fab_margin_top_details_activity_large">180dp</dimen>
+    <dimen name="fab_margin_right_details_activity_large">100dp</dimen>
+    <dimen name="fab_margin_right_details_activity_large_land">100dp</dimen>
+    <dimen name="fab_margin_top_details_activity_large_land">52dp</dimen>
+    <dimen name="fab_margin_right_details_activity_xlarge">175dp</dimen>
+    <dimen name="fab_margin_top_details_activity_xlarge">249dp</dimen>
+    <dimen name="fab_margin_right_details_activity_xlarge_land">110dp</dimen>
+    <dimen name="fab_margin_top_details_activity_xlarge_land">127dp</dimen>
+
+
+</resources>
